@@ -1,14 +1,14 @@
-# A first level heading
-## A second level heading
-### A third level heading
+# United States
+## New York
+### Queens
 
-**This is bold text**
+**I am a huge basketball fan**
 
-_This is italicized text_
+_I am a Paul George fan_
 
-~~This is a mistake~~
+~~I like football~~
 
-> Text that is a quote
+> Speak softly and carry a big stick
 
 1. George Washington
 1. John Adams
