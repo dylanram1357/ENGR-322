@@ -22,4 +22,8 @@ This website shows the [Computer Engineering Requirements](https://stevens.smart
 
 ![Stevens Logo](https://github.com/dylanram1357/ENGR-322/assets/113130225/6025ed27-ba15-48da-9d6b-15051a9571c9)
 
+In the terminal, type `ls`
+
+---
+
 
