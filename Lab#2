@@ -1,18 +1,26 @@
 env
+[env pic](Lab#2 env.png)
 
 ps
 
+
 git clone
+
 
 ls
 
+
 df
+
 
 nano file
 
+
 man uname
 
+
 if config
+
 
 ping localhost
 
