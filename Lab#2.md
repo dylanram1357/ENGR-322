@@ -20,7 +20,7 @@ man uname
 ![](https://github.com/dylanram1357/ENGR-322/blob/ac69a87991575409ebabd0d2b012d33d462e0550/Lab%232%20man%20uname.png)
 
 if config
-![]()
+![](https://github.com/dylanram1357/ENGR-322/blob/88a8a99fefe3b2efe3f8514033b12c8e0b7fd944/Lab%232%20ifconfig.png)
 
 ping localhost
 ![]()
