@@ -5,7 +5,7 @@ ps
 ![](https://github.com/dylanram1357/ENGR-322/blob/7e058a024f27953b253f64c49d933fc2f45e6e52/Lab%232%20ps.png)
 
 git clone
-![]()
+![](https://github.com/dylanram1357/ENGR-322/blob/b00ad4d7eaccd20eefe9ce826591d31d53420b9f/Lab%232%20git%20clone.png)
 
 ls
 ![]()
