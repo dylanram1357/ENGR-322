@@ -8,7 +8,7 @@ git clone
 ![](https://github.com/dylanram1357/ENGR-322/blob/b00ad4d7eaccd20eefe9ce826591d31d53420b9f/Lab%232%20git%20clone.png)
 
 ls
-![]()
+![](https://github.com/dylanram1357/ENGR-322/blob/a39336179715c327a21c75f165cb4ca3688cae7a/Lab%232%20ls.png)
 
 df
 ![]()
