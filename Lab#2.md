@@ -14,7 +14,7 @@ df
 ![](https://github.com/dylanram1357/ENGR-322/blob/75e4ce81d85cabf41ac013ce4d6a6400507488b1/Lab%232%20df.png)
 
 nano file
-![]()
+![](https://github.com/dylanram1357/ENGR-322/blob/49880f20d9e13e1b21adaaaef300f8d88d786a0d/Lab%232%20nanofile.png)
 
 man uname
 ![]()
