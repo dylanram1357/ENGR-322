@@ -17,7 +17,7 @@ nano file
 ![](https://github.com/dylanram1357/ENGR-322/blob/49880f20d9e13e1b21adaaaef300f8d88d786a0d/Lab%232%20nanofile.png)
 
 man uname
-![]()
+![](https://github.com/dylanram1357/ENGR-322/blob/ac69a87991575409ebabd0d2b012d33d462e0550/Lab%232%20man%20uname.png)
 
 if config
 ![]()
