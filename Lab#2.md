@@ -11,7 +11,7 @@ ls
 ![](https://github.com/dylanram1357/ENGR-322/blob/a39336179715c327a21c75f165cb4ca3688cae7a/Lab%232%20ls.png)
 
 df
-![]()
+![](https://github.com/dylanram1357/ENGR-322/blob/75e4ce81d85cabf41ac013ce4d6a6400507488b1/Lab%232%20df.png)
 
 nano file
 ![]()
